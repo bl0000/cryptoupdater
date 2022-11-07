@@ -22,8 +22,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 //------- Replace the following! ------
-char ssid[] = "TP-Link_E06C";       // your network SSID (name)
-char password[] = "?0DoWd@BCfC7!";  // your network key
+char ssid[] = "";       // your network SSID (name)
+char password[] = "";  // your network key
 
 
 // HTTPS 
